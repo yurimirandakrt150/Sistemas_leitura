@@ -1,1 +1,6 @@
-def yuri
+def yurigitn 
+git checkout -b nome-dabranch para criar uma nova branch
+git push origin e branch atual manda alteraçao da branch atual pro remoto 
+
+
+
