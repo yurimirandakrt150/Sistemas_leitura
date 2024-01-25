@@ -1,4 +1,4 @@
-print("Insira seu nome: ")
+print("Insira seu nome:: ")
 nome = input()
 
 while True:
