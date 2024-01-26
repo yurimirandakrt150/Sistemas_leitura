@@ -53,6 +53,7 @@ while True:
         palavra = input()
         quantidade_caracteres = len(palavra)
         print(f"A quantidade de caracteres da sua frase ou palavra é {quantidade_caracteres}")
+        break
 
     elif opc == "3":
         print("Programa encerrado, até mais")
